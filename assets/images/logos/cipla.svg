@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 40" width="130" height="40">
+  <!-- Cipla Icon: Clean Cross/Pill Accent -->
+  <g transform="translate(6, 8)">
+    <rect x="0" y="8" width="24" height="8" rx="4" fill="#005A9C" />
+    <rect x="8" y="0" width="8" height="24" rx="4" fill="#E31B23" />
+    <circle cx="12" cy="12" r="3" fill="#ffffff" />
+  </g>
+  <!-- Cipla Wordmark -->
+  <text x="36" y="26" font-family="'Inter', 'Outfit', sans-serif" font-size="22" font-weight="800" fill="#005A9C" letter-spacing="-0.5">Cipla</text>
+  <text x="96" y="16" font-family="'Inter', sans-serif" font-size="7" font-weight="700" fill="#E31B23">®</text>
+  <text x="37" y="34" font-family="'Inter', sans-serif" font-size="5.5" font-weight="700" fill="#64748b" letter-spacing="0.8">CARING FOR LIFE</text>
+</svg>

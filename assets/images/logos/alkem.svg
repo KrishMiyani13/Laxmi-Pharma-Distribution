@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 40" width="145" height="40">
+  <!-- Alkem Hexagonal 'A' Emblem -->
+  <g transform="translate(6, 6)">
+    <polygon points="14,1 26,8 26,20 14,27 2,20 2,8" fill="#003399" />
+    <polygon points="14,6 21,11 21,18 14,22 7,18 7,11" fill="#ffffff" />
+    <path d="M14 8 L18 19 L15.5 19 L14 14.5 L12.5 19 L10 19 Z M14 10.5 L12.8 13.5 L15.2 13.5 Z" fill="#003399" />
+  </g>
+  <!-- Alkem Wordmark -->
+  <text x="38" y="23" font-family="'Outfit', 'Inter', sans-serif" font-size="16" font-weight="900" fill="#003399" letter-spacing="1">ALKEM</text>
+  <text x="39" y="32" font-family="'Inter', sans-serif" font-size="5.5" font-weight="700" fill="#64748b" letter-spacing="0.8">LABORATORIES LTD.</text>
+</svg>

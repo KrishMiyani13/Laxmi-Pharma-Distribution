@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 40" width="155" height="40">
+  <!-- Dr. Reddy's Heart/Human Emblem -->
+  <g transform="translate(6, 6)">
+    <circle cx="14" cy="14" r="13" fill="#6C207E" />
+    <!-- White abstract heart/human shape -->
+    <path d="M14 7 C11 7 9 9 9 12 C9 16 14 20 14 20 C14 20 19 16 19 12 C19 9 17 7 14 7 Z" fill="#ffffff" />
+    <circle cx="14" cy="12" r="2" fill="#6C207E" />
+  </g>
+  <!-- Dr. Reddy's Wordmark -->
+  <text x="38" y="23" font-family="'Inter', 'Outfit', sans-serif" font-size="16" font-weight="800" fill="#6C207E" letter-spacing="-0.3">Dr.Reddy's</text>
+  <text x="130" y="16" font-family="'Inter', sans-serif" font-size="6.5" font-weight="700" fill="#6C207E">®</text>
+  <text x="39" y="32" font-family="'Inter', sans-serif" font-size="5.5" font-weight="600" fill="#64748b" letter-spacing="0.8">LABORATORIES</text>
+</svg>

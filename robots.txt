@@ -1,0 +1,5 @@
+# Robots.txt for Laxmi Pharma Distribution (Gujarat)
+User-agent: *
+Allow: /
+
+Sitemap: https://laxmipharmadistribution.com/sitemap.xml

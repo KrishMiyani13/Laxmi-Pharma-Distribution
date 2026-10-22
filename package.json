@@ -1,0 +1,18 @@
+{
+  "name": "laxmi-pharma-distribution",
+  "version": "1.0.0",
+  "description": "Laxmi Pharma Distribution - Premier Pharmaceutical Distributor in Gujarat",
+  "main": "index.html",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pharma",
+    "distribution",
+    "gujarat",
+    "wholesale"
+  ],
+  "author": "Laxmi Distribution Pharma Plus",
+  "license": "ISC"
+}

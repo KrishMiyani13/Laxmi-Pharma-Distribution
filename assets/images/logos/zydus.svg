@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" width="150" height="40">
+  <!-- Zydus Z Emblem -->
+  <g transform="translate(6, 7)">
+    <path d="M4 4 L22 4 L9 16 L22 16 L22 22 L4 22 L17 10 L4 10 Z" fill="#00A3AD" />
+    <circle cx="21" cy="5" r="2.5" fill="#1C355E" />
+  </g>
+  <!-- Zydus Wordmark -->
+  <text x="36" y="22" font-family="'Inter', 'Outfit', sans-serif" font-size="18" font-weight="800" fill="#1C355E" letter-spacing="-0.5">zydus</text>
+  <text x="37" y="32" font-family="'Inter', sans-serif" font-size="6" font-weight="600" fill="#00A3AD" letter-spacing="1">DEDICATED TO LIFE</text>
+</svg>

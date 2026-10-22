@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" width="150" height="40">
+  <!-- Torrent Orbital Ring Emblem -->
+  <g transform="translate(6, 6)">
+    <circle cx="14" cy="14" r="12" fill="none" stroke="#009639" stroke-width="2.5" />
+    <path d="M7 14 A7 7 0 1 1 21 14" fill="none" stroke="#004B87" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="14" cy="14" r="3.5" fill="#009639" />
+  </g>
+  <!-- Torrent Wordmark -->
+  <text x="38" y="21" font-family="'Inter', 'Outfit', sans-serif" font-size="16" font-weight="800" fill="#009639" letter-spacing="-0.3">torrent</text>
+  <text x="39" y="32" font-family="'Outfit', 'Inter', sans-serif" font-size="9" font-weight="800" fill="#004B87" letter-spacing="2.2">PHARMA</text>
+</svg>
