@@ -763,12 +763,12 @@ function openPrivacyModal() {
     <div style="margin-bottom: 1.5rem;">
       <span class="badge badge-verified" style="margin-bottom: 0.5rem;">Legal Compliance</span>
       <h2 style="font-size: var(--fs-xl); font-weight: 800; color: var(--text-main);">Privacy Policy</h2>
-      <p style="font-size: var(--fs-xs); color: var(--text-muted); margin-top: 4px;">Last Updated: October 2026 • Laxmi Distribution Pharma Plus</p>
+      <p style="font-size: var(--fs-xs); color: var(--text-muted); margin-top: 4px;">Last Updated: October 2026 • Laxmi Pharma Distributor</p>
     </div>
 
     <div style="font-size: var(--fs-sm); color: var(--text-secondary); line-height: var(--lh-loose); max-height: 50vh; overflow-y: auto; padding-right: 0.5rem; margin-bottom: 1.5rem;">
       <h4 style="color: var(--text-main); margin-bottom: 4px;">1. Statutory Wholesale Information</h4>
-      <p style="margin-bottom: 1rem;">Laxmi Distribution Pharma Plus collects business identification information including Registered Firm Name, Food & Drugs Control Administration (FDCA) Drug Licence numbers (Form 20B/21B), GSTIN, and physical establishment coordinates solely for the verification of wholesale trading eligibility under the Drugs & Cosmetics Act 1940 and GST Rules.</p>
+      <p style="margin-bottom: 1rem;">Laxmi Pharma Distributor collects business identification information including Registered Firm Name, Food & Drugs Control Administration (FDCA) Drug Licence numbers (Form 20B/21B), GSTIN, and physical establishment coordinates solely for the verification of wholesale trading eligibility under the Drugs & Cosmetics Act 1940 and GST Rules.</p>
 
       <h4 style="color: var(--text-main); margin-bottom: 4px;">2. Confidentiality of Ordering Records</h4>
       <p style="margin-bottom: 1rem;">Purchase orders, commercial margins, and facility requisitions are treated with strict clinical and commercial confidentiality. We do not sell, rent, or trade your inventory patterns to third-party commercial brokers.</p>

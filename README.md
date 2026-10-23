@@ -1,4 +1,4 @@
-# Laxmi Pharma Distribution (Laxmi Distribution Pharma Plus)
+# Laxmi Pharma Distributor (Laxmi Pharma Distribution)
 
 > **Gujarat's Trusted Pharmaceutical Distribution Partner**  
 > Authorized B2B healthcare supply chain platform engineered for retail pharmacies, hospitals, clinics, and regional stockists across Ahmedabad and Gujarat.
@@ -7,13 +7,13 @@
 
 ## 🌟 Executive Overview & Brand Architecture
 
-**Laxmi Distribution Pharma Plus** is an Ahmedabad-based pharmaceutical distributor founded and operated by a qualified pharmacist-led team (graduates of pharmacy faculties across Gujarat holding M.Pharm and B.Pharm degrees). The platform connects leading pharmaceutical manufacturers (Sun Pharma, Cipla, Torrent, Zydus, Alkem, Mankind, Lupin, Intas, Abbott, Dr. Reddy's) with healthcare providers across Gujarat.
+**Laxmi Pharma Distributor** is an Ahmedabad-based pharmaceutical distributor founded and operated by a qualified pharmacist-led team (graduates of Gujarat Technological University holding M.Pharm and B.Pharm degrees). The platform connects leading pharmaceutical manufacturers (Sun Pharma, Cipla, Torrent, Zydus, Alkem, Mankind, Lupin, Intas, Abbott, Dr. Reddy's) with healthcare providers across Gujarat.
 
 - **Direct Manufacturer Sourcing:** 100% authentic medicines billed directly from authorized channels.
 - **Extensive Portfolio:** 500+ SKUs across Critical Care Injections, Tablets & Capsules, Pediatric Syrups, Specialty Derma/Ophthalmics, and Surgical Consumables.
 - **Closed-Loop Cold Chain:** Validated 2°C – 8°C insulated transport with calibrated electronic data loggers.
 - **Statewide Logistics:** 4-hour local emergency dispatch in Ahmedabad and next-morning scheduled delivery statewide.
-- **Pharmacist Leadership Team:** Ronak Patel, Ruchit Patel, Tirth Patel, Mihir Patel, Hitkumar Bhavsar.
+- **Pharmacist Leadership Team:** Ronak Patel, Ruchit Patel (Supply Chain & Operations Manager), Tirth Patel, Mihir Patel, Hitkumar Bhavsar (Administrative Assistant).
 
 ---
 
